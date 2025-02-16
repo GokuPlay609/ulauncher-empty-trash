@@ -6,9 +6,7 @@ Tested on Gnome 47 and Fedora 41.
 
 # Demo
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/EstebanForge/ulauncher-empty-trash/refs/heads/main/screencast-demo.mp4" max-width="500" controls />
-</div>
+https://github.com/user-attachments/assets/acd79cea-b125-49cf-88b1-f124fa22a631
 
 # Installation
 
