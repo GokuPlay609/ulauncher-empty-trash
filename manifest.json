@@ -1,0 +1,18 @@
+{
+  "manifest_version": "2",
+  "required_api_version": "2",
+  "api_version": "1",
+  "name": "Empty Trash",
+  "description": "Empty user trash",
+  "developer_name": "Esteban Cuevas",
+  "icon": "icon.svg",
+  "preferences": [
+    {
+      "id": "empty-trash",
+      "type": "keyword",
+      "name": "Empty Trash",
+      "default_value": "Empty Trash",
+      "description": "Empty user trash"
+    }
+  ]
+}
