@@ -1,7 +1,7 @@
 {
   "manifest_version": "2",
   "required_api_version": "2",
-  "api_version": "1",
+  "api_version": "3",
   "name": "Empty Trash",
   "description": "Empty user trash",
   "developer_name": "Esteban Cuevas",
